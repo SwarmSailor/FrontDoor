@@ -24,5 +24,5 @@ We aim to leverage the new SWARM global network to provide a new level of afford
 
 ## Connect with us
 
-### [Join our email list](mailto:http://eepurl.com/h-9akL)
+### [Join our email list](http://eepurl.com/h-9akL)
 ### [Send an Email](mailto:info@turtletalk.space)
