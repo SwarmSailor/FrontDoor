@@ -22,5 +22,7 @@ A new affordable data service for open ocean sailors and remote enviroments
 ## What makes us different
 We aim to leverage the new SWARM global network to provide a new level of affordability and connectivity.
 
+## [Join our email list](http://eepurl.com/h-9akL)
+
 ## Connect with us
 [Email](info@turtletalk.space)
